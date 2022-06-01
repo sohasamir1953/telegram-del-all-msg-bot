@@ -1,5 +1,7 @@
 const Telegraf = require('telegraf');
 
+let BOT_TOKEN = "1541021614:AAHoD6pvSsXop2l-RpgyYRz0tRfpGGPLNVI";
+
 const bot = new Telegraf(process.env.BOT_TOKEN);
 
 bot.command('deleteAll', async (ctx) => {
