@@ -20,6 +20,6 @@ For group, `Chat History For New Members` setting must configure to `Visible` **
 ### Deploy To Heroku 📡</h4>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/TG-Musics/Telegram_Vc_Bot">
+  <a href="https://heroku.com/deploy?template=https://github.com/sohasamir1953/telegram-del-all-msg-bot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
